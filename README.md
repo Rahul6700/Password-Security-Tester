@@ -1,3 +1,6 @@
+# The app is hosted on vercel
+[click here to check it out](https://securepassword-ten.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
